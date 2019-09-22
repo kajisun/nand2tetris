@@ -166,5 +166,5 @@ cmds= sepalate_command(line)
 print(command_type(cmds))
 """
 
-if __name__ == "__main__":
-    main()
+#if __name__ == "__main__":
+#    main()
